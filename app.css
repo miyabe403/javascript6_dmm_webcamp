@@ -1,0 +1,12 @@
+.box1 {
+  background-color: #FF0000;
+  height: 200px;
+  width: 200px;
+}
+
+/* class属性を追加する/解除する */
+/* マウスオーバー時のCSS（class）をあらかじめ定義 */
+/* マウスオーバーすると太い黒枠が表示され、マウスアウトすると赤色のみになる動作を確認 */
+.box1-ext {
+  border: 10px solid black;
+}

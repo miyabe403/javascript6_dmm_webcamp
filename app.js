@@ -22,7 +22,7 @@ $(function(){
 
 // 「マウスクリック」イベントを設定 
 // .box1がクリックされたときは、box1-extのclassを追加 
-// マウスアウトされたときは、box1-extのclassを削除
+// マウスアウトされたときは、box1-extのclassを削除 
 // box1をクリックすると太い黒枠が表示され、マウスアウトすると赤色のみになる動作を確認
 $(function(){
   $('.box1').on('click', function(){
